@@ -1,6 +1,6 @@
 ### Hi there! I'm Tom Raine <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-A new and enthusiastic full-stack developer based in Hong Kong, currently learning and building amazing things with the Full Stack Open course from the University of Helsinki.
+A new and enthusiastic full-stack developer based in Hong Kong, currently taking the Full Stack Open course from the University of Helsinki.
 
 🚀 I'm currently working on **[Unchaindoghk](https://unchaindoghk.com)**, a website dedicated to the welfare of chained dogs in Hong Kong.
 
