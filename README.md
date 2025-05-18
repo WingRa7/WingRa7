@@ -9,7 +9,6 @@ What I'm familiar with:
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"><img src="https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=black" alt="Express"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"><img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
 
-<img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress">
 
 
 Feel free to DM me for anything or email wingtomhk@gmail.com
