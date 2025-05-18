@@ -1,7 +1,8 @@
 Hi there! I'm Tom Raine
 
 I'm a full-stack developer based in Hong Kong 🇭🇰
-Currently taking the Full Stack Open course from the University of Helsinki 🇫🇮
+
+Currently studying: Full Stack Open from the University of Helsinki 🇫🇮
 
 What I'm familiar with:
 
